@@ -1,0 +1,16 @@
+C:\Users\W\source\repos\Ejercicio4Cap2\bin\Debug\net5.0\Ejercicio4Cap2.exe
+C:\Users\W\source\repos\Ejercicio4Cap2\bin\Debug\net5.0\Ejercicio4Cap2.deps.json
+C:\Users\W\source\repos\Ejercicio4Cap2\bin\Debug\net5.0\Ejercicio4Cap2.runtimeconfig.json
+C:\Users\W\source\repos\Ejercicio4Cap2\bin\Debug\net5.0\Ejercicio4Cap2.runtimeconfig.dev.json
+C:\Users\W\source\repos\Ejercicio4Cap2\bin\Debug\net5.0\Ejercicio4Cap2.dll
+C:\Users\W\source\repos\Ejercicio4Cap2\bin\Debug\net5.0\ref\Ejercicio4Cap2.dll
+C:\Users\W\source\repos\Ejercicio4Cap2\bin\Debug\net5.0\Ejercicio4Cap2.pdb
+C:\Users\W\source\repos\Ejercicio4Cap2\obj\Debug\net5.0\Ejercicio4Cap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\source\repos\Ejercicio4Cap2\obj\Debug\net5.0\Ejercicio4Cap2.AssemblyInfoInputs.cache
+C:\Users\W\source\repos\Ejercicio4Cap2\obj\Debug\net5.0\Ejercicio4Cap2.AssemblyInfo.cs
+C:\Users\W\source\repos\Ejercicio4Cap2\obj\Debug\net5.0\Ejercicio4Cap2.csproj.CoreCompileInputs.cache
+C:\Users\W\source\repos\Ejercicio4Cap2\obj\Debug\net5.0\Ejercicio4Cap2.dll
+C:\Users\W\source\repos\Ejercicio4Cap2\obj\Debug\net5.0\ref\Ejercicio4Cap2.dll
+C:\Users\W\source\repos\Ejercicio4Cap2\obj\Debug\net5.0\Ejercicio4Cap2.pdb
+C:\Users\W\source\repos\Ejercicio4Cap2\obj\Debug\net5.0\Ejercicio4Cap2.genruntimeconfig.cache
+C:\Users\W\source\repos\Ejercicio4Cap2\obj\Debug\net5.0\Ejercicio4Cap2.csproj.AssemblyReference.cache
