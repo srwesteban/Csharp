@@ -8,10 +8,13 @@ namespace Singleton
         {
             Console.WriteLine(Singleton.Instance.mensaje);
 
-            Singleton.Instance.mensaje = "hola marte";
+            Singleton.Instance.mensaje = "hola marte"; // unico objeto
 
             Console.WriteLine(Singleton.Instance.mensaje);
 
+            //  Singleton hola = new Singleton(); // no es accesible debido a su nivel de proteccion
+
+            Console.WriteLine();
         }
     }
 }

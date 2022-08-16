@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W\\source\\repos\\Singletone\\Singletone.csproj",
+      "projectUniqueName": "C:\\Users\\W\\Documents\\GitHub\\Csharp\\Singletone\\Singletone.csproj",
       "projectName": "Singletone",
-      "projectPath": "C:\\Users\\W\\source\\repos\\Singletone\\Singletone.csproj",
+      "projectPath": "C:\\Users\\W\\Documents\\GitHub\\Csharp\\Singletone\\Singletone.csproj",
       "packagesPath": "C:\\Users\\W\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W\\source\\repos\\Singletone\\obj\\",
+      "outputPath": "C:\\Users\\W\\Documents\\GitHub\\Csharp\\Singletone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W\\AppData\\Roaming\\NuGet\\NuGet.Config",

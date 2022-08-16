@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CNID5WXvd65YR39kJLOLoeNPO12x+k4HAsBfx3brg98fW5n3Y3KIiX45UQ0LltygtYg2wlnSkSv43TpvApNMpg==",
+  "dgSpecHash": "GRnY/g+QGp9OvGLMlFuuKddQavKd7p5C7AvJCDfKP6gxdmwR5wQE6mOIYOc1UwoVSx+QxNrToZoZO5YnKnaVlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\W\\source\\repos\\Singletone\\Singletone.csproj",
+  "projectFilePath": "C:\\Users\\W\\Documents\\GitHub\\Csharp\\Singletone\\Singletone.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
