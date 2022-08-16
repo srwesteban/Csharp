@@ -12,7 +12,7 @@ namespace Singleton
 
             Console.WriteLine(Singleton.Instance.mensaje);
 
-            //  Singleton hola = new Singleton(); // no es accesible debido a su nivel de proteccion
+            //Singleton hola = new Singleton(); // no es accesible debido a su nivel de proteccion
 
             Console.WriteLine();
         }

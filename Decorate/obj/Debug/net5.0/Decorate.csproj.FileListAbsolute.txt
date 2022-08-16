@@ -1,0 +1,16 @@
+C:\Users\W\Documents\GitHub\Csharp\Decorate\bin\Debug\net5.0\Decorate.exe
+C:\Users\W\Documents\GitHub\Csharp\Decorate\bin\Debug\net5.0\Decorate.deps.json
+C:\Users\W\Documents\GitHub\Csharp\Decorate\bin\Debug\net5.0\Decorate.runtimeconfig.json
+C:\Users\W\Documents\GitHub\Csharp\Decorate\bin\Debug\net5.0\Decorate.runtimeconfig.dev.json
+C:\Users\W\Documents\GitHub\Csharp\Decorate\bin\Debug\net5.0\Decorate.dll
+C:\Users\W\Documents\GitHub\Csharp\Decorate\bin\Debug\net5.0\ref\Decorate.dll
+C:\Users\W\Documents\GitHub\Csharp\Decorate\bin\Debug\net5.0\Decorate.pdb
+C:\Users\W\Documents\GitHub\Csharp\Decorate\obj\Debug\net5.0\Decorate.csproj.AssemblyReference.cache
+C:\Users\W\Documents\GitHub\Csharp\Decorate\obj\Debug\net5.0\Decorate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\GitHub\Csharp\Decorate\obj\Debug\net5.0\Decorate.AssemblyInfoInputs.cache
+C:\Users\W\Documents\GitHub\Csharp\Decorate\obj\Debug\net5.0\Decorate.AssemblyInfo.cs
+C:\Users\W\Documents\GitHub\Csharp\Decorate\obj\Debug\net5.0\Decorate.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\GitHub\Csharp\Decorate\obj\Debug\net5.0\Decorate.dll
+C:\Users\W\Documents\GitHub\Csharp\Decorate\obj\Debug\net5.0\ref\Decorate.dll
+C:\Users\W\Documents\GitHub\Csharp\Decorate\obj\Debug\net5.0\Decorate.pdb
+C:\Users\W\Documents\GitHub\Csharp\Decorate\obj\Debug\net5.0\Decorate.genruntimeconfig.cache
